@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="readme.md"><b>English</b></a>
+  &nbsp;·&nbsp;
+  <a href="README.fr.md">Français</a>
+  &nbsp;·&nbsp;
+  <a href="README.es.md">Español</a>
+</p>
+
 # 🚀 sysCPU — Surveillance avancée des ressources système
 
 ## Introduction
